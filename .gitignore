@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+
+# Native builds
+ios/
+android/
+
+# Metro
+.metro-health-check*
+
+# Debugging
+*.log
+*.log.*
+
+# Env files
+.env
+.env.local
+.env.production
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NativeWind
+nativewind.d.ts
